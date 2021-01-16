@@ -1,6 +1,11 @@
 This First line in the Doc1
 This second line commit to Br2.
+<<<<<<< HEAD
 This new line add to Master.
+=======
+This third line commit to Br3.
+This second line of Br1.
+>>>>>>> 0fda01c1040bb6c38af2cd91c11d2d2f177cf360
 
 
 
