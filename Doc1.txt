@@ -1,6 +1,10 @@
 This First line in the Doc1
 This second line commit to Br2.
+ This new line add to Master.
 This third line commit to Br3.
+This second line of Br1.
+This third line commit to Br3.
+
 
 
 
